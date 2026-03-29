@@ -1,10 +1,3 @@
-Of course. You are absolutely right to want a final, clean `README.md` that reflects the complete, robust, and automated workflow you have built.
-
-Here is the definitive, updated `README.md`. It is clean, accurate, and provides clear instructions for the entire project as it currently stands.
-
----
-
-
 # Neurodegenerative Disease Simulation
 
 This project provides a C++ implementation of the reaction-diffusion model for neurodegenerative diseases presented in Weickenmeier et al. (2019), "A physics-based model explains the prion-like features of neurodegeneration...".

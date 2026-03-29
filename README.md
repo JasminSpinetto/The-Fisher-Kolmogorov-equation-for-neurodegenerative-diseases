@@ -147,5 +147,5 @@ apt-get update && apt-get install -y bc
 This project was developed in collaboration with:
 
 - Daniel Yezid Guarnizo Orjuela ([DanielGuarnizo](https://github.com/DanielGuarnizo))
-- Anna Paola Izzo
+- Anna Paola Izzo [Anna-Paola-Izzo](https://github.com/AnnaPaola00)
 - Veronica Di Gennaro

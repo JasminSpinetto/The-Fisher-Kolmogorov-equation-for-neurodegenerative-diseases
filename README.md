@@ -144,6 +144,6 @@ apt-get update && apt-get install -y bc
 
 ## Credits
 This project has been developed together with:
-- @DanielGuarnizo (Daniel Yezid Guarnizo Orjuela)
+- Daniel Yezid Guarnizo Orjuela (@DanielGuarnizo)
 - Anna Paola Izzo
 - Veronica Di Gennaro

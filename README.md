@@ -137,8 +137,10 @@ To debug or analyze a specific experiment, use the single-case scripts. They run
         ```
 
 ### Environment 
-run the following command to be able to see the execution time in the preconditioner test 
+Run the following command to be able to see the execution time in the preconditioner test:
+```bash
 apt-get update && apt-get install -y bc
+```
 
 ## Credits
 This project has been developed together with:

@@ -1,0 +1,42 @@
+## C++ Compilation Artifacts #################################################
+*.d
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+## Build & Environment Directories ###########################################
+build/
+.vscode/
+.env
+
+## OS Specific Files #########################################################
+*.DS_Store
+
+## Python Cache ##############################################################
+__pycache__/
+*.pyc
+
+## Simulation Data Files #####################################################
+#
+# This is the definitive fix:
+# Ignore all .vtu and .pvtu files everywhere in the project.
+*.vtu
+*.pvtu
+*.log
+# Also ignore the .problem text files.
+*.problem
